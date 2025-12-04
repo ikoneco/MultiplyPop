@@ -329,7 +329,7 @@ multiply-pop/
 │                              OR                                  │
 │  ┌───────────────────────────────────────────────────────────┐  │
 │  │  Firebase Dev Project (Cloud)                             │  │
-│  │  - multiply-pop-dev                                       │  │
+│  │  - multiplypop                                            │  │
 │  │  - Isolated test data                                     │  │
 │  │  - Separate quotas and billing                            │  │
 │  └───────────────────────────────────────────────────────────┘  │
@@ -337,7 +337,7 @@ multiply-pop/
 │                    PRODUCTION ENVIRONMENT                        │
 │  ┌───────────────────────────────────────────────────────────┐  │
 │  │  Firebase Prod Project (Cloud)                            │  │
-│  │  - multiply-pop-prod                                      │  │
+│  │  - multiplypop                                            │  │
 │  │  - Real user data                                         │  │
 │  │  - Production quotas and billing                          │  │
 │  │  - Enhanced security rules                                │  │

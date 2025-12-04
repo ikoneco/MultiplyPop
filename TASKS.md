@@ -10,6 +10,10 @@
     - [x] Initialize git
     - [x] Add remote origin
     - [x] Push initial commit
+- [x] Configure Firebase Project
+  - [x] Create .firebaserc with default project 'multiplypop'
+  - [x] Update .env files with 'multiplypop' project ID
+  - [x] Update documentation references
 
 ## Backlog
 - [ ] Implement Feature A (Example)

@@ -843,10 +843,10 @@ npx expo export --platform web
 firebase serve --only hosting
 
 # Deploy to dev environment
-firebase deploy --only hosting --project multiply-pop-dev
+firebase deploy --only hosting --project multiplypop
 
 # Deploy to production
-firebase deploy --only hosting --project multiply-pop-prod
+firebase deploy --only hosting --project multiplypop
 ```
 
 ### Deploy Firestore Rules
