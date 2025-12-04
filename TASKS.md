@@ -13,7 +13,10 @@
 - [x] Configure Firebase Project
   - [x] Create .firebaserc with default project 'multiplypop'
   - [x] Update .env files with 'multiplypop' project ID
+  - [x] Update .env files with 'multiplypop' project ID
   - [x] Update documentation references
+- [x] Install Firebase CLI
+  - [x] Install firebase-tools as dev dependency
 
 ## Backlog
 - [ ] Implement Feature A (Example)
