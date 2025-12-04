@@ -1,0 +1,13 @@
+# Changelog
+
+## [Unreleased]
+
+## [2025-12-04] - Workflow Configuration
+### Added
+- Multi-AI development workflow protocols
+- Root documentation files: TASKS.md, CHANGELOG.md, SUMMARY.md, NEXT_STEPS.md, ARCH_NOTES.md
+- Directory structure: docs/, notes/, prompts/
+- Documentation templates in docs/
+
+### Changed
+- Updated PLAN.md and IMPLEMENTATION.md to include AI handoff protocols and GitHub workflow rules.
